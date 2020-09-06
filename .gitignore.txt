@@ -1,0 +1,6 @@
+## ignore file ##
+
+.ipynb_checkpoints
+
+catboost_info
+
