@@ -1,9 +1,0 @@
-## ignore file ##
-
-.ipynb_checkpoints
-
-catboost_info
-
-dk_dacon_linear
-
-dk_dacon
