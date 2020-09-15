@@ -1,5 +1,10 @@
-catboost_info
-dataset
-.ipynb_checkpoints
-dk_dacon.csv
+## ignore file ##
+
+catboost_info/
+
+dataset/
+
+.ipynb_checkpoints/
+
+*.csv
 
