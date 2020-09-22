@@ -1,0 +1,10 @@
+## ingore ##
+
+
+*.csv
+
+dataset/
+
+.ipynb_checkpoints
+
+
